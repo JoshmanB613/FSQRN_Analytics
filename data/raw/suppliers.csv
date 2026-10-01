@@ -1,0 +1,51 @@
+supplier_id,supplier_name,country,region,supplier_type,risk_level,status
+SUP001,Supplier Company 1,United Kingdom,UK,Bakery,High,Active
+SUP002,Supplier Company 2,United Kingdom,EMEA,Dairy,High,Inactive
+SUP003,Supplier Company 3,France,EMEA,Food,High,Inactive
+SUP004,Supplier Company 4,South Africa,UK,Beverages,Low,Active
+SUP005,Supplier Company 5,Netherlands,EMEA,Packaging,Low,Active
+SUP006,Supplier Company 6,South Africa,UK,Produce,High,Active
+SUP007,Supplier Company 7,France,EMEA,Food,High,Inactive
+SUP008,Supplier Company 8,United Kingdom,UK,Produce,High,Active
+SUP009,Supplier Company 9,Italy,EMEA,Bakery,High,Active
+SUP010,Supplier Company 10,Poland,EMEA,Food,Medium,Active
+SUP011,Supplier Company 11,France,EMEA,Bakery,Medium,Active
+SUP012,Supplier Company 12,Poland,UK,Food,High,Inactive
+SUP013,Supplier Company 13,Germany,UK,Dairy,Medium,Inactive
+SUP014,Supplier Company 14,Germany,UK,Dairy,Low,Active
+SUP015,Supplier Company 15,South Africa,UK,Beverages,Medium,Active
+SUP016,Supplier Company 16,Spain,EMEA,Beverages,High,Active
+SUP017,Supplier Company 17,Italy,UK,Bakery,High,Active
+SUP018,Supplier Company 18,United Kingdom,UK,Produce,High,Active
+SUP019,Supplier Company 19,Poland,UK,Beverages,Medium,Inactive
+SUP020,Supplier Company 20,France,UK,Food,High,Active
+SUP021,Supplier Company 21,France,EMEA,Packaging,High,Active
+SUP022,Supplier Company 22,Spain,UK,Packaging,High,Active
+SUP023,Supplier Company 23,United Kingdom,EMEA,Food,Low,Active
+SUP024,Supplier Company 24,Spain,EMEA,Dairy,Medium,Active
+SUP025,Supplier Company 25,United Kingdom,UK,Food,Medium,Active
+SUP026,Supplier Company 26,Netherlands,UK,Coffee,High,Active
+SUP027,Supplier Company 27,Netherlands,UK,Bakery,High,Inactive
+SUP028,Supplier Company 28,Netherlands,EMEA,Packaging,Medium,Active
+SUP029,Supplier Company 29,Spain,UK,Produce,Medium,Inactive
+SUP030,Supplier Company 30,Italy,EMEA,Produce,Low,Inactive
+SUP031,Supplier Company 31,France,EMEA,Packaging,Medium,Inactive
+SUP032,Supplier Company 32,Italy,UK,Packaging,Medium,Active
+SUP033,Supplier Company 33,Poland,UK,Coffee,Medium,Active
+SUP034,Supplier Company 34,France,UK,Food,Low,Active
+SUP035,Supplier Company 35,United Kingdom,EMEA,Coffee,High,Inactive
+SUP036,Supplier Company 36,South Africa,UK,Coffee,High,Active
+SUP037,Supplier Company 37,Italy,UK,Dairy,Medium,Active
+SUP038,Supplier Company 38,Netherlands,EMEA,Coffee,Medium,Active
+SUP039,Supplier Company 39,United Kingdom,UK,Dairy,High,Active
+SUP040,Supplier Company 40,South Africa,UK,Dairy,High,Active
+SUP041,Supplier Company 41,Italy,EMEA,Bakery,Medium,Inactive
+SUP042,Supplier Company 42,France,EMEA,Produce,Low,Active
+SUP043,Supplier Company 43,France,UK,Beverages,Medium,Inactive
+SUP044,Supplier Company 44,United Kingdom,EMEA,Packaging,Medium,Inactive
+SUP045,Supplier Company 45,Netherlands,EMEA,Food,High,Active
+SUP046,Supplier Company 46,Spain,EMEA,Bakery,Low,Active
+SUP047,Supplier Company 47,France,EMEA,Bakery,Medium,Active
+SUP048,Supplier Company 48,France,EMEA,Beverages,High,Inactive
+SUP049,Supplier Company 49,Spain,UK,Beverages,Low,Active
+SUP050,Supplier Company 50,Netherlands,EMEA,Bakery,Medium,Active

@@ -1,0 +1,251 @@
+incident_id,product_id,supplier_id,incident_date,incident_type,severity,description,status
+INC0001,PROD123,SUP027,2026-07-09,Foreign Material,Medium,Synthetic quality incident,Closed
+INC0002,PROD118,SUP050,2026-08-30,Product Quality,Medium,Synthetic quality incident,Open
+INC0003,PROD061,SUP010,2026-06-25,Product Quality,High,Synthetic quality incident,Open
+INC0004,PROD120,SUP030,2025-02-20,Labelling Error,Low,Synthetic quality incident,Under Investigation
+INC0005,PROD002,SUP042,2025-03-23,Contamination,Critical,Synthetic quality incident,Closed
+INC0006,PROD060,SUP023,2025-05-21,Allergen Issue,High,Synthetic quality incident,Under Investigation
+INC0007,PROD047,SUP018,2026-05-02,Foreign Material,High,Synthetic quality incident,Open
+INC0008,PROD005,SUP022,2025-08-10,Contamination,High,Synthetic quality incident,Open
+INC0009,PROD035,SUP039,2026-09-18,Allergen Issue,Critical,Synthetic quality incident,Open
+INC0010,PROD116,SUP050,2026-02-19,Temperature Breach,Critical,Synthetic quality incident,Under Investigation
+INC0011,PROD035,SUP039,2026-08-11,Allergen Issue,Critical,Synthetic quality incident,Closed
+INC0012,PROD031,SUP007,2026-05-12,Contamination,Critical,Synthetic quality incident,Open
+INC0013,PROD051,SUP008,2026-07-15,Foreign Material,Critical,Synthetic quality incident,Under Investigation
+INC0014,PROD013,SUP024,2025-08-03,Foreign Material,Critical,Synthetic quality incident,Under Investigation
+INC0015,PROD048,SUP023,2025-04-14,Product Quality,Critical,Synthetic quality incident,Under Investigation
+INC0016,PROD091,SUP004,2025-03-01,Product Quality,Critical,Synthetic quality incident,Under Investigation
+INC0017,PROD087,SUP022,2025-05-22,Packaging Defect,Low,Synthetic quality incident,Closed
+INC0018,PROD045,SUP039,2025-12-23,Foreign Material,Low,Synthetic quality incident,Open
+INC0019,PROD073,SUP028,2026-03-25,Allergen Issue,Medium,Synthetic quality incident,Closed
+INC0020,PROD086,SUP025,2025-12-22,Packaging Defect,High,Synthetic quality incident,Open
+INC0021,PROD010,SUP034,2025-11-30,Temperature Breach,High,Synthetic quality incident,Under Investigation
+INC0022,PROD016,SUP043,2026-02-28,Packaging Defect,Low,Synthetic quality incident,Closed
+INC0023,PROD044,SUP037,2026-08-29,Temperature Breach,High,Synthetic quality incident,Closed
+INC0024,PROD051,SUP008,2025-04-06,Contamination,Medium,Synthetic quality incident,Under Investigation
+INC0025,PROD036,SUP043,2026-01-20,Packaging Defect,Low,Synthetic quality incident,Under Investigation
+INC0026,PROD150,SUP019,2026-02-14,Packaging Defect,High,Synthetic quality incident,Closed
+INC0027,PROD019,SUP033,2026-08-23,Allergen Issue,Medium,Synthetic quality incident,Open
+INC0028,PROD138,SUP046,2026-04-05,Contamination,Critical,Synthetic quality incident,Under Investigation
+INC0029,PROD106,SUP019,2026-07-19,Contamination,High,Synthetic quality incident,Open
+INC0030,PROD121,SUP039,2026-05-29,Product Quality,Critical,Synthetic quality incident,Closed
+INC0031,PROD025,SUP007,2025-02-22,Contamination,High,Synthetic quality incident,Under Investigation
+INC0032,PROD042,SUP048,2025-10-08,Contamination,Medium,Synthetic quality incident,Closed
+INC0033,PROD087,SUP022,2025-03-16,Contamination,High,Synthetic quality incident,Closed
+INC0034,PROD102,SUP005,2026-02-17,Product Quality,Critical,Synthetic quality incident,Closed
+INC0035,PROD112,SUP013,2025-07-10,Foreign Material,Low,Synthetic quality incident,Open
+INC0036,PROD128,SUP014,2025-11-08,Packaging Defect,High,Synthetic quality incident,Closed
+INC0037,PROD086,SUP025,2026-01-15,Temperature Breach,Low,Synthetic quality incident,Under Investigation
+INC0038,PROD026,SUP039,2025-03-19,Foreign Material,Low,Synthetic quality incident,Open
+INC0039,PROD026,SUP039,2025-10-20,Packaging Defect,High,Synthetic quality incident,Under Investigation
+INC0040,PROD021,SUP045,2026-01-03,Foreign Material,Medium,Synthetic quality incident,Under Investigation
+INC0041,PROD110,SUP007,2025-12-20,Contamination,Critical,Synthetic quality incident,Closed
+INC0042,PROD092,SUP039,2026-01-24,Packaging Defect,Medium,Synthetic quality incident,Closed
+INC0043,PROD069,SUP046,2026-09-20,Allergen Issue,Critical,Synthetic quality incident,Closed
+INC0044,PROD038,SUP015,2026-03-17,Labelling Error,High,Synthetic quality incident,Closed
+INC0045,PROD081,SUP021,2026-02-12,Allergen Issue,High,Synthetic quality incident,Closed
+INC0046,PROD016,SUP043,2026-01-17,Allergen Issue,Critical,Synthetic quality incident,Closed
+INC0047,PROD017,SUP029,2025-01-27,Temperature Breach,Medium,Synthetic quality incident,Under Investigation
+INC0048,PROD111,SUP043,2025-09-25,Product Quality,Low,Synthetic quality incident,Closed
+INC0049,PROD105,SUP036,2026-07-03,Foreign Material,High,Synthetic quality incident,Under Investigation
+INC0050,PROD107,SUP032,2025-05-06,Allergen Issue,Critical,Synthetic quality incident,Open
+INC0051,PROD026,SUP039,2026-02-03,Packaging Defect,Critical,Synthetic quality incident,Open
+INC0052,PROD149,SUP029,2026-07-17,Packaging Defect,Low,Synthetic quality incident,Closed
+INC0053,PROD043,SUP016,2025-10-14,Product Quality,High,Synthetic quality incident,Under Investigation
+INC0054,PROD082,SUP041,2026-06-07,Packaging Defect,Critical,Synthetic quality incident,Closed
+INC0055,PROD092,SUP039,2026-09-09,Labelling Error,Critical,Synthetic quality incident,Under Investigation
+INC0056,PROD014,SUP003,2026-07-01,Foreign Material,Critical,Synthetic quality incident,Under Investigation
+INC0057,PROD002,SUP042,2025-02-05,Temperature Breach,High,Synthetic quality incident,Under Investigation
+INC0058,PROD026,SUP039,2025-06-06,Labelling Error,Critical,Synthetic quality incident,Open
+INC0059,PROD093,SUP002,2026-02-12,Temperature Breach,Critical,Synthetic quality incident,Closed
+INC0060,PROD090,SUP013,2026-03-26,Contamination,Medium,Synthetic quality incident,Open
+INC0061,PROD043,SUP016,2025-07-01,Allergen Issue,Medium,Synthetic quality incident,Under Investigation
+INC0062,PROD003,SUP041,2026-08-24,Temperature Breach,Low,Synthetic quality incident,Open
+INC0063,PROD100,SUP033,2025-03-28,Contamination,Medium,Synthetic quality incident,Closed
+INC0064,PROD127,SUP047,2025-01-29,Temperature Breach,High,Synthetic quality incident,Open
+INC0065,PROD141,SUP001,2025-04-04,Labelling Error,Medium,Synthetic quality incident,Closed
+INC0066,PROD142,SUP032,2025-03-16,Temperature Breach,Low,Synthetic quality incident,Closed
+INC0067,PROD061,SUP010,2026-02-18,Allergen Issue,Low,Synthetic quality incident,Open
+INC0068,PROD039,SUP025,2026-09-13,Product Quality,Low,Synthetic quality incident,Closed
+INC0069,PROD121,SUP039,2026-09-16,Foreign Material,Low,Synthetic quality incident,Under Investigation
+INC0070,PROD034,SUP008,2025-04-15,Allergen Issue,Critical,Synthetic quality incident,Open
+INC0071,PROD088,SUP026,2025-11-21,Temperature Breach,Medium,Synthetic quality incident,Under Investigation
+INC0072,PROD097,SUP011,2025-11-03,Allergen Issue,High,Synthetic quality incident,Under Investigation
+INC0073,PROD104,SUP018,2026-08-19,Product Quality,High,Synthetic quality incident,Closed
+INC0074,PROD064,SUP004,2025-09-23,Packaging Defect,Critical,Synthetic quality incident,Open
+INC0075,PROD115,SUP026,2025-05-03,Product Quality,Medium,Synthetic quality incident,Closed
+INC0076,PROD035,SUP039,2026-07-20,Allergen Issue,Low,Synthetic quality incident,Open
+INC0077,PROD109,SUP027,2025-10-27,Contamination,High,Synthetic quality incident,Open
+INC0078,PROD069,SUP046,2026-07-28,Temperature Breach,High,Synthetic quality incident,Open
+INC0079,PROD044,SUP037,2026-04-06,Contamination,Critical,Synthetic quality incident,Open
+INC0080,PROD047,SUP018,2026-05-01,Temperature Breach,High,Synthetic quality incident,Open
+INC0081,PROD075,SUP024,2025-09-04,Labelling Error,Low,Synthetic quality incident,Under Investigation
+INC0082,PROD077,SUP017,2025-08-19,Temperature Breach,Critical,Synthetic quality incident,Under Investigation
+INC0083,PROD112,SUP013,2025-01-12,Allergen Issue,Critical,Synthetic quality incident,Under Investigation
+INC0084,PROD099,SUP001,2026-05-18,Labelling Error,High,Synthetic quality incident,Under Investigation
+INC0085,PROD016,SUP043,2025-01-19,Contamination,Medium,Synthetic quality incident,Under Investigation
+INC0086,PROD054,SUP040,2026-07-21,Product Quality,Critical,Synthetic quality incident,Under Investigation
+INC0087,PROD024,SUP038,2026-07-12,Labelling Error,Critical,Synthetic quality incident,Open
+INC0088,PROD150,SUP019,2025-03-19,Packaging Defect,Critical,Synthetic quality incident,Closed
+INC0089,PROD148,SUP025,2025-10-06,Labelling Error,Low,Synthetic quality incident,Open
+INC0090,PROD059,SUP038,2025-02-27,Labelling Error,Medium,Synthetic quality incident,Under Investigation
+INC0091,PROD058,SUP033,2026-08-15,Labelling Error,Critical,Synthetic quality incident,Under Investigation
+INC0092,PROD100,SUP033,2025-10-10,Allergen Issue,Low,Synthetic quality incident,Under Investigation
+INC0093,PROD057,SUP005,2026-07-09,Product Quality,High,Synthetic quality incident,Closed
+INC0094,PROD014,SUP003,2025-09-05,Foreign Material,Critical,Synthetic quality incident,Open
+INC0095,PROD034,SUP008,2025-04-20,Labelling Error,Critical,Synthetic quality incident,Closed
+INC0096,PROD112,SUP013,2026-04-27,Packaging Defect,Low,Synthetic quality incident,Under Investigation
+INC0097,PROD116,SUP050,2026-02-15,Contamination,Medium,Synthetic quality incident,Closed
+INC0098,PROD080,SUP009,2025-02-22,Product Quality,Low,Synthetic quality incident,Closed
+INC0099,PROD118,SUP050,2025-01-22,Product Quality,Medium,Synthetic quality incident,Open
+INC0100,PROD012,SUP025,2025-07-16,Product Quality,Low,Synthetic quality incident,Closed
+INC0101,PROD110,SUP007,2026-09-08,Foreign Material,High,Synthetic quality incident,Under Investigation
+INC0102,PROD043,SUP016,2025-08-22,Contamination,Medium,Synthetic quality incident,Closed
+INC0103,PROD060,SUP023,2025-08-09,Allergen Issue,Medium,Synthetic quality incident,Closed
+INC0104,PROD029,SUP050,2025-03-14,Foreign Material,Medium,Synthetic quality incident,Closed
+INC0105,PROD109,SUP027,2025-11-12,Temperature Breach,High,Synthetic quality incident,Open
+INC0106,PROD068,SUP024,2026-05-29,Temperature Breach,Medium,Synthetic quality incident,Open
+INC0107,PROD128,SUP014,2025-06-12,Foreign Material,Medium,Synthetic quality incident,Open
+INC0108,PROD147,SUP018,2025-05-05,Temperature Breach,High,Synthetic quality incident,Under Investigation
+INC0109,PROD008,SUP008,2026-08-06,Foreign Material,High,Synthetic quality incident,Open
+INC0110,PROD086,SUP025,2025-03-14,Temperature Breach,Critical,Synthetic quality incident,Under Investigation
+INC0111,PROD038,SUP015,2026-09-15,Temperature Breach,Critical,Synthetic quality incident,Open
+INC0112,PROD022,SUP027,2025-01-20,Foreign Material,Low,Synthetic quality incident,Closed
+INC0113,PROD066,SUP029,2025-08-25,Product Quality,High,Synthetic quality incident,Closed
+INC0114,PROD065,SUP003,2026-08-17,Allergen Issue,High,Synthetic quality incident,Closed
+INC0115,PROD135,SUP042,2025-08-18,Packaging Defect,Critical,Synthetic quality incident,Closed
+INC0116,PROD027,SUP042,2025-05-16,Temperature Breach,Critical,Synthetic quality incident,Open
+INC0117,PROD083,SUP002,2025-09-27,Foreign Material,Medium,Synthetic quality incident,Under Investigation
+INC0118,PROD038,SUP015,2026-01-29,Allergen Issue,Low,Synthetic quality incident,Under Investigation
+INC0119,PROD131,SUP004,2025-10-03,Foreign Material,Low,Synthetic quality incident,Under Investigation
+INC0120,PROD042,SUP048,2025-01-23,Allergen Issue,Low,Synthetic quality incident,Under Investigation
+INC0121,PROD147,SUP018,2026-08-29,Packaging Defect,Critical,Synthetic quality incident,Closed
+INC0122,PROD008,SUP008,2025-07-20,Foreign Material,High,Synthetic quality incident,Open
+INC0123,PROD110,SUP007,2026-08-27,Contamination,High,Synthetic quality incident,Open
+INC0124,PROD138,SUP046,2025-04-23,Foreign Material,High,Synthetic quality incident,Open
+INC0125,PROD054,SUP040,2026-06-04,Allergen Issue,Critical,Synthetic quality incident,Closed
+INC0126,PROD117,SUP008,2026-06-14,Packaging Defect,Critical,Synthetic quality incident,Open
+INC0127,PROD004,SUP031,2025-05-22,Product Quality,Critical,Synthetic quality incident,Open
+INC0128,PROD131,SUP004,2025-07-05,Contamination,Medium,Synthetic quality incident,Under Investigation
+INC0129,PROD041,SUP012,2025-02-17,Foreign Material,Low,Synthetic quality incident,Under Investigation
+INC0130,PROD038,SUP015,2025-06-26,Temperature Breach,High,Synthetic quality incident,Closed
+INC0131,PROD067,SUP027,2026-06-17,Foreign Material,Medium,Synthetic quality incident,Under Investigation
+INC0132,PROD055,SUP039,2026-06-30,Contamination,Medium,Synthetic quality incident,Closed
+INC0133,PROD012,SUP025,2025-08-01,Temperature Breach,Low,Synthetic quality incident,Open
+INC0134,PROD083,SUP002,2025-11-17,Product Quality,Medium,Synthetic quality incident,Open
+INC0135,PROD122,SUP013,2026-04-16,Temperature Breach,Low,Synthetic quality incident,Open
+INC0136,PROD090,SUP013,2025-12-03,Product Quality,Medium,Synthetic quality incident,Under Investigation
+INC0137,PROD086,SUP025,2025-07-24,Temperature Breach,Medium,Synthetic quality incident,Under Investigation
+INC0138,PROD132,SUP002,2025-07-03,Labelling Error,Medium,Synthetic quality incident,Under Investigation
+INC0139,PROD073,SUP028,2026-08-06,Packaging Defect,Critical,Synthetic quality incident,Closed
+INC0140,PROD103,SUP004,2025-03-02,Foreign Material,Medium,Synthetic quality incident,Under Investigation
+INC0141,PROD145,SUP030,2026-07-09,Allergen Issue,High,Synthetic quality incident,Under Investigation
+INC0142,PROD002,SUP042,2025-08-05,Packaging Defect,Low,Synthetic quality incident,Under Investigation
+INC0143,PROD116,SUP050,2025-02-27,Packaging Defect,Critical,Synthetic quality incident,Under Investigation
+INC0144,PROD135,SUP042,2025-10-18,Temperature Breach,Low,Synthetic quality incident,Open
+INC0145,PROD036,SUP043,2026-07-27,Packaging Defect,Low,Synthetic quality incident,Under Investigation
+INC0146,PROD130,SUP036,2025-09-16,Temperature Breach,Low,Synthetic quality incident,Under Investigation
+INC0147,PROD034,SUP008,2025-05-11,Allergen Issue,Low,Synthetic quality incident,Closed
+INC0148,PROD073,SUP028,2026-08-18,Foreign Material,Medium,Synthetic quality incident,Under Investigation
+INC0149,PROD146,SUP014,2025-05-06,Product Quality,Critical,Synthetic quality incident,Closed
+INC0150,PROD053,SUP050,2025-10-13,Temperature Breach,Critical,Synthetic quality incident,Open
+INC0151,PROD124,SUP011,2025-12-31,Labelling Error,Medium,Synthetic quality incident,Open
+INC0152,PROD007,SUP037,2025-07-02,Temperature Breach,Low,Synthetic quality incident,Closed
+INC0153,PROD093,SUP002,2026-08-19,Product Quality,Critical,Synthetic quality incident,Under Investigation
+INC0154,PROD058,SUP033,2025-12-29,Product Quality,Low,Synthetic quality incident,Under Investigation
+INC0155,PROD001,SUP046,2025-08-21,Labelling Error,Critical,Synthetic quality incident,Closed
+INC0156,PROD015,SUP012,2026-01-09,Allergen Issue,Low,Synthetic quality incident,Under Investigation
+INC0157,PROD130,SUP036,2025-12-08,Packaging Defect,Medium,Synthetic quality incident,Open
+INC0158,PROD008,SUP008,2025-06-14,Packaging Defect,Low,Synthetic quality incident,Open
+INC0159,PROD035,SUP039,2025-12-26,Temperature Breach,Medium,Synthetic quality incident,Under Investigation
+INC0160,PROD006,SUP046,2026-08-29,Allergen Issue,Critical,Synthetic quality incident,Under Investigation
+INC0161,PROD118,SUP050,2026-07-11,Temperature Breach,Medium,Synthetic quality incident,Under Investigation
+INC0162,PROD120,SUP030,2025-12-21,Temperature Breach,Medium,Synthetic quality incident,Under Investigation
+INC0163,PROD080,SUP009,2026-08-02,Product Quality,High,Synthetic quality incident,Open
+INC0164,PROD143,SUP021,2026-02-26,Contamination,Low,Synthetic quality incident,Closed
+INC0165,PROD080,SUP009,2026-08-31,Labelling Error,High,Synthetic quality incident,Open
+INC0166,PROD070,SUP028,2026-07-31,Labelling Error,Critical,Synthetic quality incident,Under Investigation
+INC0167,PROD006,SUP046,2025-08-13,Foreign Material,Medium,Synthetic quality incident,Under Investigation
+INC0168,PROD015,SUP012,2026-09-03,Product Quality,Low,Synthetic quality incident,Under Investigation
+INC0169,PROD112,SUP013,2025-03-28,Labelling Error,High,Synthetic quality incident,Open
+INC0170,PROD106,SUP019,2025-06-24,Temperature Breach,Low,Synthetic quality incident,Open
+INC0171,PROD017,SUP029,2026-05-14,Temperature Breach,High,Synthetic quality incident,Open
+INC0172,PROD104,SUP018,2026-04-26,Temperature Breach,Medium,Synthetic quality incident,Open
+INC0173,PROD083,SUP002,2025-11-12,Labelling Error,High,Synthetic quality incident,Open
+INC0174,PROD047,SUP018,2025-11-15,Contamination,Medium,Synthetic quality incident,Open
+INC0175,PROD001,SUP046,2025-06-07,Labelling Error,Low,Synthetic quality incident,Under Investigation
+INC0176,PROD019,SUP033,2026-02-10,Allergen Issue,Low,Synthetic quality incident,Open
+INC0177,PROD028,SUP042,2025-01-27,Contamination,High,Synthetic quality incident,Open
+INC0178,PROD133,SUP018,2026-03-30,Contamination,Critical,Synthetic quality incident,Closed
+INC0179,PROD103,SUP004,2025-05-06,Allergen Issue,Critical,Synthetic quality incident,Under Investigation
+INC0180,PROD068,SUP024,2025-01-31,Contamination,Critical,Synthetic quality incident,Open
+INC0181,PROD036,SUP043,2026-07-20,Temperature Breach,Low,Synthetic quality incident,Open
+INC0182,PROD126,SUP024,2026-01-11,Contamination,Critical,Synthetic quality incident,Under Investigation
+INC0183,PROD138,SUP046,2025-12-26,Product Quality,Low,Synthetic quality incident,Under Investigation
+INC0184,PROD053,SUP050,2026-01-19,Packaging Defect,Medium,Synthetic quality incident,Closed
+INC0185,PROD007,SUP037,2026-07-14,Temperature Breach,Low,Synthetic quality incident,Closed
+INC0186,PROD144,SUP028,2026-07-12,Temperature Breach,Critical,Synthetic quality incident,Open
+INC0187,PROD090,SUP013,2025-10-21,Labelling Error,Critical,Synthetic quality incident,Under Investigation
+INC0188,PROD112,SUP013,2025-12-26,Packaging Defect,High,Synthetic quality incident,Under Investigation
+INC0189,PROD093,SUP002,2025-04-08,Contamination,Low,Synthetic quality incident,Under Investigation
+INC0190,PROD075,SUP024,2026-07-31,Foreign Material,High,Synthetic quality incident,Open
+INC0191,PROD059,SUP038,2026-07-13,Packaging Defect,High,Synthetic quality incident,Closed
+INC0192,PROD098,SUP036,2026-03-19,Temperature Breach,Low,Synthetic quality incident,Closed
+INC0193,PROD114,SUP036,2026-08-19,Allergen Issue,Medium,Synthetic quality incident,Under Investigation
+INC0194,PROD084,SUP021,2025-03-30,Foreign Material,Medium,Synthetic quality incident,Closed
+INC0195,PROD113,SUP035,2026-02-07,Foreign Material,Medium,Synthetic quality incident,Under Investigation
+INC0196,PROD045,SUP039,2026-03-21,Allergen Issue,Critical,Synthetic quality incident,Under Investigation
+INC0197,PROD089,SUP024,2025-03-29,Allergen Issue,High,Synthetic quality incident,Under Investigation
+INC0198,PROD050,SUP046,2025-03-14,Allergen Issue,Low,Synthetic quality incident,Under Investigation
+INC0199,PROD072,SUP027,2025-08-28,Labelling Error,High,Synthetic quality incident,Closed
+INC0200,PROD145,SUP030,2025-09-26,Allergen Issue,Low,Synthetic quality incident,Open
+INC0201,PROD030,SUP006,2025-08-05,Foreign Material,High,Synthetic quality incident,Open
+INC0202,PROD082,SUP041,2025-03-28,Packaging Defect,Critical,Synthetic quality incident,Under Investigation
+INC0203,PROD018,SUP029,2026-03-12,Labelling Error,Medium,Synthetic quality incident,Closed
+INC0204,PROD011,SUP046,2025-02-21,Contamination,Critical,Synthetic quality incident,Closed
+INC0205,PROD134,SUP025,2025-07-13,Foreign Material,Low,Synthetic quality incident,Closed
+INC0206,PROD124,SUP011,2025-04-27,Labelling Error,Critical,Synthetic quality incident,Closed
+INC0207,PROD050,SUP046,2025-11-10,Product Quality,Critical,Synthetic quality incident,Under Investigation
+INC0208,PROD089,SUP024,2025-06-20,Packaging Defect,Critical,Synthetic quality incident,Under Investigation
+INC0209,PROD135,SUP042,2026-05-18,Labelling Error,Medium,Synthetic quality incident,Under Investigation
+INC0210,PROD110,SUP007,2025-07-11,Contamination,Medium,Synthetic quality incident,Under Investigation
+INC0211,PROD051,SUP008,2025-11-01,Packaging Defect,High,Synthetic quality incident,Under Investigation
+INC0212,PROD065,SUP003,2026-03-07,Packaging Defect,High,Synthetic quality incident,Open
+INC0213,PROD037,SUP004,2025-09-29,Packaging Defect,Low,Synthetic quality incident,Closed
+INC0214,PROD090,SUP013,2026-06-07,Foreign Material,Low,Synthetic quality incident,Under Investigation
+INC0215,PROD015,SUP012,2026-01-06,Foreign Material,Medium,Synthetic quality incident,Closed
+INC0216,PROD082,SUP041,2025-02-03,Contamination,Low,Synthetic quality incident,Open
+INC0217,PROD012,SUP025,2025-04-30,Contamination,High,Synthetic quality incident,Closed
+INC0218,PROD036,SUP043,2025-01-15,Labelling Error,Low,Synthetic quality incident,Open
+INC0219,PROD036,SUP043,2025-09-05,Packaging Defect,Low,Synthetic quality incident,Open
+INC0220,PROD008,SUP008,2025-04-13,Contamination,Low,Synthetic quality incident,Open
+INC0221,PROD131,SUP004,2025-12-08,Product Quality,High,Synthetic quality incident,Closed
+INC0222,PROD011,SUP046,2025-09-07,Product Quality,Medium,Synthetic quality incident,Under Investigation
+INC0223,PROD134,SUP025,2025-01-09,Temperature Breach,Medium,Synthetic quality incident,Open
+INC0224,PROD085,SUP024,2025-02-21,Product Quality,Critical,Synthetic quality incident,Closed
+INC0225,PROD147,SUP018,2026-02-20,Contamination,Medium,Synthetic quality incident,Open
+INC0226,PROD132,SUP002,2025-07-07,Labelling Error,High,Synthetic quality incident,Closed
+INC0227,PROD076,SUP034,2026-04-07,Allergen Issue,Low,Synthetic quality incident,Open
+INC0228,PROD066,SUP029,2026-09-09,Foreign Material,Critical,Synthetic quality incident,Under Investigation
+INC0229,PROD056,SUP025,2025-02-22,Contamination,Critical,Synthetic quality incident,Open
+INC0230,PROD107,SUP032,2026-09-08,Foreign Material,Critical,Synthetic quality incident,Closed
+INC0231,PROD002,SUP042,2026-06-06,Contamination,Critical,Synthetic quality incident,Open
+INC0232,PROD041,SUP012,2026-07-27,Labelling Error,High,Synthetic quality incident,Closed
+INC0233,PROD086,SUP025,2026-06-06,Temperature Breach,Medium,Synthetic quality incident,Open
+INC0234,PROD047,SUP018,2025-03-30,Contamination,High,Synthetic quality incident,Open
+INC0235,PROD020,SUP010,2026-07-13,Foreign Material,High,Synthetic quality incident,Under Investigation
+INC0236,PROD081,SUP021,2026-04-15,Packaging Defect,Low,Synthetic quality incident,Closed
+INC0237,PROD148,SUP025,2025-02-23,Packaging Defect,Low,Synthetic quality incident,Under Investigation
+INC0238,PROD062,SUP050,2026-04-08,Labelling Error,Medium,Synthetic quality incident,Under Investigation
+INC0239,PROD011,SUP046,2026-03-18,Product Quality,Low,Synthetic quality incident,Under Investigation
+INC0240,PROD073,SUP028,2026-03-31,Labelling Error,Medium,Synthetic quality incident,Closed
+INC0241,PROD147,SUP018,2025-08-11,Product Quality,Medium,Synthetic quality incident,Open
+INC0242,PROD002,SUP042,2025-09-06,Product Quality,Critical,Synthetic quality incident,Under Investigation
+INC0243,PROD125,SUP049,2025-10-10,Foreign Material,Low,Synthetic quality incident,Under Investigation
+INC0244,PROD050,SUP046,2025-10-23,Foreign Material,Medium,Synthetic quality incident,Under Investigation
+INC0245,PROD113,SUP035,2025-07-12,Foreign Material,High,Synthetic quality incident,Closed
+INC0246,PROD039,SUP025,2026-05-04,Temperature Breach,High,Synthetic quality incident,Closed
+INC0247,PROD129,SUP014,2025-12-17,Temperature Breach,Medium,Synthetic quality incident,Closed
+INC0248,PROD139,SUP024,2025-07-21,Foreign Material,High,Synthetic quality incident,Under Investigation
+INC0249,PROD031,SUP007,2026-06-22,Allergen Issue,Critical,Synthetic quality incident,Open
+INC0250,PROD088,SUP026,2025-01-31,Packaging Defect,High,Synthetic quality incident,Closed
