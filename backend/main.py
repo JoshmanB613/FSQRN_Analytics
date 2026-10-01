@@ -23,7 +23,7 @@ app.add_middleware(
 DATABASE_URL = (
     "dbname=fsqrn_analytics "
     "user=postgres "
-    "password=Your_psql_password "
+    "password=Your_psql_password here "
     "host=localhost "
     "port=5432"
 )
